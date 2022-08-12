@@ -1,5 +1,61 @@
 [
   {
+    "fecha_carga": "2022-08-12 11:53:53",
+    "afiliado": "PORTALES, EMMA LUZ",
+    "nroafiliado": 11820719901,
+    "clinica": "Consultorio Privado",
+    "edad": 2,
+    "nrosolicitud": "APOS1208114527",
+    "medico": "FLORES FERNANDO",
+    "estado_paciente": "AMBULATORIO",
+    "estado_solicitud": "ENTRANTE",
+    "fecha_cirugia": "2022-08-22",
+    "necesidad": "PROGRAMADO",
+    "grupo_articulos": "ORTESIS"
+  },
+  {
+    "fecha_carga": "2022-08-12 11:39:09",
+    "afiliado": "VEGA, ADRIANA BEATRIZ",
+    "nroafiliado": 12061375401,
+    "clinica": "Sanatorio Rioja",
+    "edad": 43,
+    "nrosolicitud": "APOS1208113512",
+    "medico": "ZALAZAR RICARDO DANIEL",
+    "estado_paciente": "INTERNADO",
+    "estado_solicitud": "ENTRANTE",
+    "fecha_cirugia": "2022-08-17",
+    "necesidad": "PROGRAMADO",
+    "grupo_articulos": "TRAUMATOLOGIA"
+  },
+  {
+    "fecha_carga": "2022-08-12 11:36:42",
+    "afiliado": "CORDOVA, JUAN JOSE",
+    "nroafiliado": 12633608400,
+    "clinica": "Consultorio Privado",
+    "edad": 44,
+    "nrosolicitud": "APOS1208112850",
+    "medico": "AYAN JAVIER ANTONIO",
+    "estado_paciente": "AMBULATORIO",
+    "estado_solicitud": "ENTRANTE",
+    "fecha_cirugia": "",
+    "necesidad": "URGENTE",
+    "grupo_articulos": "TRAUMATOLOGIA"
+  },
+  {
+    "fecha_carga": "2022-05-03 11:25:00",
+    "afiliado": "GUZMAN CONTRERAS, EYLUL MARIA",
+    "nroafiliado": 13603505502,
+    "clinica": "Consultorio Privado",
+    "edad": 1,
+    "nrosolicitud": "APOS1208110659",
+    "medico": "VARAS LOPEZ SUSANA",
+    "estado_paciente": "AMBULATORIO",
+    "estado_solicitud": "ENTRANTE",
+    "fecha_cirugia": "2022-05-03",
+    "necesidad": "PROGRAMADO",
+    "grupo_articulos": "ORTESIS"
+  },
+  {
     "fecha_carga": "2022-05-03 11:08:00",
     "afiliado": "COLINA, JORGE ALBERTO",
     "nroafiliado": 12590291602,
@@ -364,7 +420,7 @@
     "grupo_articulos": "TRAUMATOLOGIA"
   },
   {
-    "fecha_carga": "2022-05-25 09:55:00",
+    "fecha_carga": "2022-05-13 09:55:00",
     "afiliado": "FUNES, ANGELICA PETRONA",
     "nroafiliado": 10512998600,
     "clinica": "Consultorio Privado",
@@ -3438,7 +3494,7 @@
     "nrosolicitud": "APOS1008173719",
     "medico": "LUDUEÑA, RAUL SERGIO",
     "estado_paciente": "AMBULATORIO",
-    "estado_solicitud": "ENTRANTE",
+    "estado_solicitud": "FINALIZADA",
     "fecha_cirugia": "2022-08-10",
     "necesidad": "PROGRAMADO",
     "grupo_articulos": "UROLOGIA"
@@ -3858,7 +3914,7 @@
     "nrosolicitud": "APOS1008105147",
     "medico": "LUDUEÑA, RAUL SERGIO",
     "estado_paciente": "INTERNADO",
-    "estado_solicitud": "ENTRANTE",
+    "estado_solicitud": "FINALIZADA",
     "fecha_cirugia": "2022-08-12",
     "necesidad": "URGENTE",
     "grupo_articulos": "HEMODINAMIA"
@@ -3872,8 +3928,8 @@
     "nrosolicitud": "APOS1008104410",
     "medico": "LUDUEÑA, RAUL SERGIO",
     "estado_paciente": "AMBULATORIO",
-    "estado_solicitud": "ENTRANTE",
-    "fecha_cirugia": "",
+    "estado_solicitud": "FINALIZADA",
+    "fecha_cirugia": "2022-08-12",
     "necesidad": "URGENTE",
     "grupo_articulos": "HEMODINAMIA"
   },
